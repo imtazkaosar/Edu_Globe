@@ -27,11 +27,11 @@ const {
 } = require('../controller/course/courseController');
 
 // ---------------- LIVE CLASS CONTROLLERS ----------------
-const studentAllLiveClasses = require('../controller/liveClass/studentAllLiveClasses');
-const teacherLiveClassHistory = require('../controller/liveClass/teacherLiveClassHistory');
-const cancelLiveClass = require('../controller/liveClass/cancelLiveClass');
-const updateLiveClass = require('../controller/liveClass/updateLiveClass');
-const createLiveClass = require('../controller/liveClass/createLiveClass');
+const studentAllLiveClasses = require('../controller/liveclass/studentAllLiveClasses');
+const teacherLiveClassHistory = require('../controller/liveclass/teacherLiveClassHistory');
+const cancelLiveClass = require('../controller/liveclass/cancelLiveClass');
+const updateLiveClass = require('../controller/liveclass/updateLiveClass');
+const createLiveClass = require('../controller/liveclass/createLiveClass');
 
 // ---------------- OTHER CONTROLLERS ----------------
 const assignmentController = require("../controller/assignment/assignmentController");
