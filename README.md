@@ -5,8 +5,6 @@
 ---
 
 ## 👥 Team Members
-
-|--------------------------|
 | Md. Imtaz Kaosar         |
 |  Sougata Das             |
 | Anusheh Anadil Raham     |
